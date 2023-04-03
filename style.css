@@ -348,7 +348,16 @@ span{
   color: var(--text-color);
   line-height: 30px;
 }
-
+.content-text h3{
+  font-size: 35px;
+  color: var(--main-color);
+  font-weight: 400;
+  line-height: 50px;
+}
+.content-text h4{
+  color: var(--text-color);
+  line-height: 50px
+}
 .content-text p{
   text-align: justify;
 }
